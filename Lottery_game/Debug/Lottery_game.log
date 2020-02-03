@@ -1,0 +1,5 @@
+﻿  aliohjelmat.cpp
+  Lottery_game.cpp
+d:\ohj_projects\lottery_game\lottery_game\lottery_game.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Lottery_game.vcxproj -> D:\ohj_projects\Lottery_game\Debug\Lottery_game.exe
